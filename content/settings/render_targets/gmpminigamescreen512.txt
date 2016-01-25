@@ -1,0 +1,6 @@
+"GMPMinigameScreen512"
+{
+	"Name"		"GMPMinigameScreen512"
+	"Width"		"512"
+	"Height"	"512"
+}

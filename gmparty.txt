@@ -1,0 +1,15 @@
+"GMod Party"
+{
+	"base"		"base"
+	"title"		"GMod Party"
+	"maps"		"^gmp_"
+	"menusystem"	"1"
+	"author_name"	"HuntsKikBut"
+	"author_email"	"HuntsKikBut@GMail.Com"
+	"author_url"	"http://www.pulsareffect.com/"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmp/clock_line_512"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

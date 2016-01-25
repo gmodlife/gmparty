@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmp/time!_green_512"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

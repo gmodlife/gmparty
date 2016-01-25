@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmp/latest_news_logo"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmp/no_entry_tf2td"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
